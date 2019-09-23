@@ -1,7 +1,7 @@
 {
-  "name": "udemy-node-tests",
+  "name": "node-tests",
   "version": "1.0.0",
-  "description": "udemy-node-tests",
+  "description": "Practice testing node.js code",
   "main": "index.js",
   "scripts": {
     "test": "mocha **/*.test.js",
