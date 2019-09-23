@@ -10,9 +10,9 @@ Practice testing node.js code.
 
 Use the Download ZIP button, then unzip it, or run command
 
-'''
+```
 git clone git@github.com:ermondel/node-tests.git
-'''
+```
 
 go to the directory and run command
 
@@ -25,9 +25,7 @@ npm install
 run
 
 ```
-
 npm test
-
 ```
 
 ### Technologies
